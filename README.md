@@ -8,17 +8,15 @@ My curriculum vitae is a detailed overview of my education, work experience, and
 Links to my contact information are located in the contact directory.
 
 # License
-This repository is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International license. For more information, please visit https://creativecommons.org/licenses/by-nc-nd/4.0/.
+This repository is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International license. 
+For more information, please visit https://creativecommons.org/licenses/by-nc-nd/4.0/.
 
-resume/resume.pdf
+* [Resumen 1](documents/nrh_resume.pdf)
 
 This is the PDF version of your resume.
 
-cv/cv.pdf
+* [Resumen 2](documents/nrh_cv_es.pdf)
 
 Esta es la versión PDF en español de mi CV.
 
-contact/contact.md
-
-Those files contain links to my contact information.
-
+*(Those files contain links to my contact information).*
