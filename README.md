@@ -19,7 +19,4 @@ This repository is licensed under the Creative Commons Attribution-NonCommercial
 
 For more information, please visit: 
 
-https://creativecommons.org/licenses/by-nc-nd/4.0/.
-
-* [LICENSE](license)
-
+https://creativecommons.org/licenses/by-nc-nd/4.0/
