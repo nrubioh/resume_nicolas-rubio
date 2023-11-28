@@ -6,7 +6,7 @@ My curriculum vitae is a detailed overview of my education, work experience, and
 
 * [nrh_resume](documents/nrh_resume.pdf)
 
-This is the PDF version of your resume.
+This is the PDF version of my resume.
 
 * [nrh_cv_es](documents/nrh_cv_es.pdf)
 
