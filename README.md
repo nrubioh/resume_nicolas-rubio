@@ -2,13 +2,13 @@
 This repository contains my resume.
 
 # Curriculum vitae
-My curriculum vitae is a detailed overview of my education, work experience, and skills. It is located in the cv directory.
+My curriculum vitae is a detailed overview of my education, work experience, and skills. It is located in the documents folder.
 
-* [Resumen 1](documents/nrh_resume.pdf)
+* [nrh_resume](documents/nrh_resume.pdf)
 
 This is the PDF version of your resume.
 
-* [Resumen 2](documents/nrh_cv_es.pdf)
+* [nrh_cv_es](documents/nrh_cv_es.pdf)
 
 Esta es la versión PDF en español de mi CV.
 
@@ -21,4 +21,5 @@ For more information, please visit:
 
 https://creativecommons.org/licenses/by-nc-nd/4.0/.
 
+* [LICENSE](license)
 
